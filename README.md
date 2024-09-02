@@ -37,6 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keycean&show_icons=true&locale=en" alt="keycean" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keycean&" alt="keycean" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keycean&show_icons=true&locale=en&layout=compact" alt="keycean" /></p>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Keycean&theme=gruvbox&border_radius=4.5) -->
 
 
