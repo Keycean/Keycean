@@ -1,7 +1,7 @@
 ![MasterHead](https://img.itch.zone/aW1nLzE1MDU4ODUwLnBuZw==/original/W5T06F.png)
 <h1 align="center">Hi 👋, I'm Keycean</h1>
 <h3 align="center">A passionate full stack web developer and mobile developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7a/cd/b8/7acdb841ed765949c07c835ebb8b5aef.gif">
+<img align="right" alt="Coding" width="400" src="https://www.icodesolution.com/resource/images/mobile-app-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keycean&label=Profile%20views&color=0e75b6&style=flat" alt="keycean" /> </p>
 
