@@ -33,7 +33,7 @@
 
 ### 📊 Stats
 
-![Keycean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keycean&show_icons=true&theme=gruvbox)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keycean&show_icons=true&locale=en" alt="keycean" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keycean&" alt="keycean" /></p>
