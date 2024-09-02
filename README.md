@@ -31,8 +31,10 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keycean&show_icons=true&locale=en&layout=compact" alt="keycean" /></p>
+### 📊 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keycean&show_icons=true&locale=en" alt="keycean" /></p>
+![Keycean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keycean&show_icons=true&theme=gruvbox)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keycean&" alt="keycean" /></p>
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Keycean&theme=gruvbox&border_radius=4.5) -->
+
+<img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif">
