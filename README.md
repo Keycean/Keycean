@@ -1,5 +1,5 @@
 ![MasterHead](https://img.itch.zone/aW1nLzE1MDU4ODUwLnBuZw==/original/W5T06F.png)
-<h1 align="center">Hi 👋, I'm Keycean</h1>
+<h1 align="center">Hi, I'm Keycean</h1>
 <h3 align="center">A passionate full stack web developer and mobile developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icodesolution.com/resource/images/mobile-app-development.gif">
 
